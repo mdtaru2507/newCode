@@ -1,0 +1,97 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com</groupId>
+  <artifactId>TestNgFrameWork</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>TestNgFrameWork</name>
+  <dependencies>
+	  <dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.8.0</version>
+    
+</dependency>
+
+
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.13.0</version>
+</dependency>
+  	<dependency>
+  		<groupId>com.bit.ui.test</groupId>
+  		<artifactId>MavenProject</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	
+  	  <dependency>
+
+    <groupId>org.apache.poi</groupId>
+
+    <artifactId>poi-examples</artifactId>
+
+    <version>3.12-beta1</version>
+
+   </dependency>
+
+   <dependency>
+
+    <groupId>org.apache.poi</groupId>
+
+    <artifactId>poi</artifactId>
+
+    <version>3.12-beta1</version>
+
+   </dependency>
+
+   <dependency>
+
+    <groupId>org.apache.poi</groupId>
+
+    <artifactId>poi-excelant</artifactId>
+
+    <version>3.12-beta1</version>
+
+   </dependency>
+
+   <dependency>
+
+    <groupId>org.apache.poi</groupId>
+
+    <artifactId>poi-ooxml</artifactId>
+
+    <version>3.12-beta1</version>
+
+   </dependency>
+
+   <dependency>
+
+    <groupId>org.apache.poi</groupId>
+
+    <artifactId>poi-ooxml-schemas</artifactId>
+
+    <version>3.12-beta1</version>
+
+   </dependency>
+
+   <dependency>
+
+    <groupId>org.apache.poi</groupId>
+
+    <artifactId>poi-scratchpad</artifactId>
+
+    <version>3.12-beta1</version>
+
+   </dependency>
+
+   <dependency>
+
+    <groupId>org.apache.poi.DELETE</groupId>
+
+    <artifactId>poi</artifactId>
+
+    <version>3.0-FINAL</version>
+
+   </dependency>
+  </dependencies>
+</project>

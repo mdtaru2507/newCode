@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "whatever">
+	
+	
+	<!--<parameter name ="browser" value = "chrome"> </parameter>
+	<parameter name ="url" value = "google.com"> </parameter>-->
+	
+	<test name = "whatever">
+	<parameter name ="browser" value = "Chrome"> </parameter>
+	<parameter name ="url" value = "Google.com"> </parameter>
+		
+	</test>
+	
+	<test name = "whatever">
+	<parameter name ="browser" value = "Chrome"> </parameter>
+	<parameter name ="url" value = "Google.com"> </parameter>
+		
+	</test>
+	 
+</suite>

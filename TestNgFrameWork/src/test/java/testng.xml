@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+		<class name="com.SmokeTest"/>
+		<class name="dv.DataSource"/>
+		<class name="com.UnitTest"/>
+      
+      <class name="com.DataDrivenTest"/>
+      <class name="com.BaseTest"/>
+      
+      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

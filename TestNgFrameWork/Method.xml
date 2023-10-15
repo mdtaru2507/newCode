@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "whatever">
+	<test name = "whatever">
+		<!--
+		<packages>
+			
+			<package name = "Package name"> </package>
+			
+		</packages>-->
+		<classes>
+			<classname name = "com.UnitTest">
+				<methods>
+					
+					<includs name = "name of the login"> </includs>
+					<includs name = "name of the logout"> </includs>
+				</methods>
+				
+			</classname>
+		</classes>
+	</test>
+	 
+</suite>

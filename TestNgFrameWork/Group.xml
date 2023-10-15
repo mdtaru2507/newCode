@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "whatever">
+	<test name = "whatever">
+		<groups>
+			<run>
+				<include name = "ui"></include>
+			</run>
+		</groups>
+		
+		<packages>
+			
+			<package name = "com">   </package>
+			
+		</packages>
+		
+		
+	</test>
+	 
+</suite>
